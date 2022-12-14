@@ -7,3 +7,10 @@ h1{
 p{
     color:rgb(72, 3, 3)
 }
+.carousel-item{
+    height: 300px;
+    width: 100%;
+}
+ul{
+    flood-color: aqua;
+}
