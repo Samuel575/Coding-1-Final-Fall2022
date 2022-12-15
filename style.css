@@ -5,12 +5,31 @@ h1{
     color:bisque
 }
 p{
-    color:rgb(72, 3, 3)
+    color:rgb(36, 10, 10)
 }
 .carousel-item{
-    height: 300px;
-    width: 100%;
+    text-align: center;
+    border-image: space;
+    height: 250px;
+    width: 80%;
 }
-ul{
-    flood-color: aqua;
+p{
+    flood-color: #880808;
+}
+h1{
+    color: #5b2323;
+}
+h5{
+    color:blueviolet
+}
+.great{
+    text-decoration: dotted;
+    text-align: left;
+}
+.star{
+    padding: left 20px;
+  padding: right 20px;
+}
+.word{
+    text-align: left;
 }
