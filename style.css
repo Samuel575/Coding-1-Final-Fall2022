@@ -10,12 +10,10 @@ p{
 .carousel-item{
     text-align: center;
     border-image: space;
-    height: 1000px;
+    height: 700px;
     width: 100%;
 }
-p{
-    flood-color: #880808;
-}
+
 h1{
     color: #5b2323;
 }
@@ -29,7 +27,8 @@ h5{
 .star{
     padding: left 20px;
   padding: right 20px;
+  color:white
 }
 .word{
-    box-shadow: inset;
+    background-image: image();
 }
